@@ -1,8 +1,10 @@
 ## Celulas_PHP
 Collapse exemple
 <details><summary markdown="span">About config</summary>
+  
 `project version: 1.0.1`  &nbsp; &nbsp;   `hypertext Markup Language: HTML5` &nbsp; &nbsp; 
 `jquery: 3.4.1`  &nbsp; &nbsp; &nbsp;    `popper: js@1.16.0`  &nbsp; &nbsp;     `boostrap: 4.4.1`
+
 </details>
 
 
