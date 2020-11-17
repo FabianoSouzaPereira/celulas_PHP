@@ -1,0 +1,5 @@
+@charset "UTF-8";
+.vertical-table {
+    vertical-align: middle;
+    display: table-cell;
+}
