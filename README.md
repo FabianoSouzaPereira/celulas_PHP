@@ -1,12 +1,14 @@
 ##  Celulas_PHP
+![GitHub repo size](https://img.shields.io/github/repo-size/FabianoSouzaPereira/celulas_PHP)
+![GitHub language count](https://img.shields.io/github/languages/count/FabianoSouzaPereira/celulas_PHP)
+![GitHub top language](https://img.shields.io/github/languages/top/FabianoSouzaPereira/celulas_PHP)</br>
+![Badge](https://img.shields.io/badge/Celulas-v1.0.0-orange)
+![Badge](https://img.shields.io/badge/PHP-v7.4.0-blue)
+![Badge](https://img.shields.io/badge/JQuery-v3.4.1-green)
+![Badge](https://img.shields.io/badge/Popper-v1.16.0-yellow)
+![Badge](https://img.shields.io/badge/Bootstrap-v4.4.1-orange)
 
-<details><summary markdown="span">About details</summary>
-&#13;
-  
->`project version: 1.0.1`  &nbsp; &nbsp;   `hypertext Markup Language: HTML5` &nbsp; &nbsp; 
->`jquery: 3.4.1`  &nbsp; &nbsp; &nbsp;   `popper: js@1.16.0`  &nbsp; &nbsp;  `boostrap: 4.4.1`
 
-</details>
 
 #### This project was created to attend churches that are organized in cells.
 
@@ -54,4 +56,17 @@ streamlined throughout the design and engineering process.
 I've got some icons from the google materals, because **Bootstrap 4.1** doesn't no longer accept **glyphicon icons**.
 And a good option that I figure out was it and google stuff help a lot in all cases. 
 
+
+
+### Features
+
+- [x] Church registration
+- [x] User registration
+- [x] Cell registration
+- [x] Optimized for mobile
+
+### Requirements
+
++ Servidor HTTP Apache2
++ Servidor de Banco de Dados MySQL v7.4
 
