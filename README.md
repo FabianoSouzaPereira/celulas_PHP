@@ -1,12 +1,12 @@
-## Celulas_PHP
-Collapse exemple
-<details><summary markdown="span">About config</summary>
+##  Celulas_PHP
+
+<details><summary markdown="span">About details</summary>
+&#13;
   
-`project version: 1.0.1`  &nbsp; &nbsp;   `hypertext Markup Language: HTML5` &nbsp; &nbsp; 
-`jquery: 3.4.1`  &nbsp; &nbsp; &nbsp;    `popper: js@1.16.0`  &nbsp; &nbsp;     `boostrap: 4.4.1`
+>`project version: 1.0.1`  &nbsp; &nbsp;   `hypertext Markup Language: HTML5` &nbsp; &nbsp; 
+>`jquery: 3.4.1`  &nbsp; &nbsp; &nbsp;   `popper: js@1.16.0`  &nbsp; &nbsp;  `boostrap: 4.4.1`
 
 </details>
-
 
 #### This project was created to attend churches that are organized in cells.
 
@@ -14,14 +14,12 @@ Collapse exemple
 
 ### PHP
 
-**PHP** (a recursive acronym for PHP: Hypertext Preprocessor) is a widely used, open source scripting language,
-widely used, and especially suitable for web development and that can be embedded within **HTML**.
-This projest was build with metodos that use what I call "static injection", it consists int keep a component 
+Recursive acronym for PHP: Hypertext Preprocessor is a widely used, open source scripting language, widely used, and especially suitable for web development and that can be embedded within **HTML**. This projest was build with metodos that use what I call "static injection", it consists int keep a component 
 top and bottom fixed end injecting a new content betwing them. **PHP** in this project is injecting  **HTML**, **CSS** and **javascript** directto window throws **ECHO**, literally drawing the source code.
 
 ### JQuery
 
-**JQuery** is a fast, small, and feature-rich JavaScript library. It makes things like **HTML** document traversal and 
+Fast, small, and feature-rich JavaScript library. It makes things like **HTML** document traversal and 
 manipulation, event handling, animation, and **Ajax** much simpler with an easy-to-use API that works across a 
 multitude of browsers. With a combination of versatility and extensibility, **jQuery** has changed the way that 
 millions of people write **JavaScript**. Well, said that, I must tell you that although some people assuming that 
